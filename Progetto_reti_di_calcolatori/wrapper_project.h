@@ -1,14 +1,3 @@
-/*
-***************************************************
-*                                                 *
-*         PROGETTO RETI DI CALCOLATORI            *
-*                A.A. 2015/2016                   *
-*              Pauciullo Valerio                  *
-*             Matricola 0124001023                *
-*                                                 *
-***************************************************
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
